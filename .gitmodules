@@ -1,0 +1,3 @@
+[submodule "sm"]
+	path = sm
+	url = git@github.com:paolope/git-fetch-bug-submodule.git
